@@ -1,4 +1,4 @@
-cricket.py#Define the base class player
+#Define the base class player
 class player:
   def--init--(self):
   def play(self):
